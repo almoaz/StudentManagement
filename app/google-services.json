@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077176112437",
+    "firebase_url": "https://studentmanagement-cc550.firebaseio.com",
+    "project_id": "studentmanagement-cc550",
+    "storage_bucket": "studentmanagement-cc550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077176112437:android:618bdb0b4a9d763de8287c",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077176112437-ni2bvn65meqjeaekt19f4o6hfdhcove4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDigkxTKfbRtXd5tTlQnfOuv5CZAafHl20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077176112437-ni2bvn65meqjeaekt19f4o6hfdhcove4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

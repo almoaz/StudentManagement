@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="student_management">Student Management</string>
+
+    <string-array name="spinner_text">
+        <item> Roll </item>
+        <item> Name </item>
+        <item> Email </item>
+        <item> Phone </item>
+
+    </string-array>
+
+</resources>
